@@ -8,7 +8,7 @@ This Flutter application allows users to interact with a 2D array matrix. Users 
 
 ## Screen Recording
 
-![] (https://github.com/sidd68-hub/Test-Matrix/blob/main/assets/gif/how_it_work.mov)
+![](https://github.com/sidd68-hub/Test-Matrix/blob/main/assets/gif/howItWork.gif)
 
 
 ## How it Works
@@ -23,6 +23,14 @@ The application follows these steps:
 ## Installation
 
 To run the application locally, follow these steps:
+
+1. Clone the repository:
+   git clone https://github.com/sidd68-hub/Test-Matrix.git
+2. Navigate to the project directory:
+   cd Test-Matrix
+3. Run the app:
+   flutter run
+       
 
 
 
