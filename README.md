@@ -8,7 +8,7 @@ This Flutter application allows users to interact with a 2D array matrix. Users 
 
 ## Screen Recording
 
-![](https://github.com/sidd68-hub/Test-Matrix/blob/main/assets/gif/how_it_work.mov)
+![] (https://github.com/sidd68-hub/Test-Matrix/blob/main/assets/gif/how_it_work.mov)
 
 
 ## How it Works
@@ -28,6 +28,8 @@ To run the application locally, follow these steps:
 
 ## Release APK
 You can download the latest release APK from here.
+[Download APK](https://github.com/sidd68-hub/Test-Matrix/raw/main/assets/apk/app-release.apk)
+
 
 ## Technologies Used
 
