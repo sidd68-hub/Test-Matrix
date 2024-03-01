@@ -1,18 +1,24 @@
-# test_pune
+#Matrix 2D Array Grid
 
-A new Flutter project.
+A flutter 2D Array Matrix app developed in flutter.
 
-## Getting Started
+## How it works
 
-This project is a starting point for a Flutter application.
-![](https://github.com/sidd68-hub/Test-Matrix/blob/main/assets/gif/how_it_work.gif)
+https://github.com/sidd68-hub/Test-Matrix/assets/77606988/3ea9368c-dd0a-4f71-9926-fafe3d9ccef5
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-- 
+- git clone https://github.com/sidd68-hub/Test-Matrix.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Start with the project
+
+First of All we will se a Splash Screen After 3 second it with auto redirect us on a page where you see two textfield one is for row i.e. is "m" and the other is for column i.e. is "n". After clicking to continue we will see the matrix of m*n with the textfield and we have to insert any letter, alphabet, special charavted and number, and the textfield will autofocus other textfield once the focused textfield is filled. There should be on 1 charcter in on text field. After insertin then click continue, it will navigate you the next page in which we will see the data we entered in the previous page should be showing in the matrix. Below the matrix we have search field in which we can search any characted and the matrix will search the character in all the direction and if found it will highlighted the matrix with the yellow color. There will be anothe button that we reset all the process.
+
+## Summary
+
+- Created application using Flutter and Dart.
+- Implemented Getx state management.
+- Navigation Should be simple with the routes
+
+
